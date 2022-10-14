@@ -1,0 +1,15 @@
+/Users/supanutchantarasiri/Desktop/concert/bin/Debug/net6.0/concert
+/Users/supanutchantarasiri/Desktop/concert/bin/Debug/net6.0/concert.deps.json
+/Users/supanutchantarasiri/Desktop/concert/bin/Debug/net6.0/concert.runtimeconfig.json
+/Users/supanutchantarasiri/Desktop/concert/bin/Debug/net6.0/concert.dll
+/Users/supanutchantarasiri/Desktop/concert/bin/Debug/net6.0/concert.pdb
+/Users/supanutchantarasiri/Desktop/concert/obj/Debug/net6.0/concert.csproj.AssemblyReference.cache
+/Users/supanutchantarasiri/Desktop/concert/obj/Debug/net6.0/concert.GeneratedMSBuildEditorConfig.editorconfig
+/Users/supanutchantarasiri/Desktop/concert/obj/Debug/net6.0/concert.AssemblyInfoInputs.cache
+/Users/supanutchantarasiri/Desktop/concert/obj/Debug/net6.0/concert.AssemblyInfo.cs
+/Users/supanutchantarasiri/Desktop/concert/obj/Debug/net6.0/concert.csproj.CoreCompileInputs.cache
+/Users/supanutchantarasiri/Desktop/concert/obj/Debug/net6.0/concert.dll
+/Users/supanutchantarasiri/Desktop/concert/obj/Debug/net6.0/refint/concert.dll
+/Users/supanutchantarasiri/Desktop/concert/obj/Debug/net6.0/concert.pdb
+/Users/supanutchantarasiri/Desktop/concert/obj/Debug/net6.0/concert.genruntimeconfig.cache
+/Users/supanutchantarasiri/Desktop/concert/obj/Debug/net6.0/ref/concert.dll
